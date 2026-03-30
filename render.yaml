@@ -1,0 +1,33 @@
+services:
+  - type: web
+    name: freshrss-batman
+    env: docker
+    plan: free
+    region: oregon # Or your preferred region
+    envVars:
+      - key: DATABASE_TYPE
+        value: postgres
+      - key: DATABASE_HOST
+        fromDatabase:
+          name: freshrss-db
+          property: host
+      - key: DATABASE_USER
+        fromDatabase:
+          name: freshrss-db
+          property: user
+      - key: DATABASE_PASSWORD
+        fromDatabase:
+          name: freshrss-db
+          property: password
+      - key: DATABASE_NAME
+        fromDatabase:
+          name: freshrss-db
+          property: database
+      - key: TZ
+        value: Africa/Nairobi
+      - key: CRON_MIN
+        value: "*/30" # Updates feeds every 30 mins
+
+databases:
+  - name: freshrss-db
+    plan: free
