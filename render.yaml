@@ -3,10 +3,10 @@ services:
     name: freshrss-batman
     env: docker
     plan: free
-    region: frankfurt # Or your preferred region
+    region: frankfurt
     envVars:
       - key: FRESHRSS_INSTALL
-        value: '--db-type postgres --db-host aws-1-eu-north-1.pooler.supabase.com --db-user postgres.qzztnegumuramsdcapni --db-password [YOUR-PASSWORD] --db-base postgres --db-port 6543 --db-prefix freshrss_ --default-user admin --api-enabled --auth-type form'
+        value: '--db-type=postgres --db-host=aws-1-eu-north-1.pooler.supabase.com --db-user=postgres.qzztnegumuramsdcapni --db-password=SupabaseRss_2020 --db-base=postgres --db-port=6543 --db-prefix=freshrss_ --default-user=admin --api-enabled --auth-type=form'
       - key: DATABASE_TYPE
         value: postgres
       - key: DATABASE_HOST
