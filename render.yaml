@@ -4,11 +4,15 @@ services:
     env: docker
     plan: free
     region: frankfurt
+    disk:
+      name: freshrss-data
+      mountPath: /var/www/FreshRSS/data
+      sizeGB: 1
     envVars:
-      - key: FRESHRSS_INSTALL
-        value: '--db-type=postgres --db-host=aws-1-eu-north-1.pooler.supabase.com --db-user=postgres.qzztnegumuramsdcapni --db-password=SupabaseRss_2020 --db-base=postgres --db-port=6543 --db-prefix=freshrss_ --default-user=admin --api-enabled --auth-type=form'
+      - key: CRON_MIN
+        value: "*/30"
       - key: DATABASE_TYPE
-        value: postgres
+        value: pgsql
       - key: DATABASE_HOST
         value: aws-1-eu-north-1.pooler.supabase.com
       - key: DATABASE_PORT
@@ -17,3 +21,11 @@ services:
         value: postgres.qzztnegumuramsdcapni
       - key: DATABASE_PASSWORD
         value: SupabaseRss_2020
+      - key: DATABASE_NAME
+        value: postgres
+      - key: FRESHRSS_INSTALL
+        value: '--default-user=admin --db-type=pgsql --db-host=aws-1-eu-north-1.pooler.supabase.com --db-user=postgres.qzztnegumuramsdcapni --db-password=SupabaseRss_2020 --db-base=postgres --db-port=6543 --db-prefix=freshrss_ --auth-type=form --api-enabled'
+      - key: FRESHRSS_USER
+        value: '--user=admin --password=YourAdminPassword123'
+      - key: TZ
+        value: Africa/Nairobi
