@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>My FreshRSS Feeds</title>
+    <dateCreated>Mon, 06 Apr 2026 18:59:00 GMT</dateCreated>
+  </head>
+  <body>
+
+    <!-- ==================== RSSHUBPY (Your Custom Feeds) ==================== -->
+    <outline text="RsshubPy" title="RsshubPy">
+      
+      <outline text="Phone Reviews" title="Phone Reviews">
+        <outline type="rss" text="GSM Arena News" 
+          xmlUrl="https://myrhubpy.vercel.app/gsmarena/news"/>
+        <outline type="rss" text="GSM Arena Latest Phones" 
+          xmlUrl="https://myrhubpy.vercel.app/gsmarena/latest"/>
+        <outline type="rss" text="GSM Arena Reviews" 
+          xmlUrl="https://myrhubpy.vercel.app/gsmarena/reviews"/>
+        <outline type="rss" text="GSM Arena Samsung" 
+          xmlUrl="https://myrhubpy.vercel.app/gsmarena/brand/samsung"/>
+        <outline type="rss" text="GSM Arena Apple" 
+          xmlUrl="https://myrhubpy.vercel.app/gsmarena/brand/apple-phones-48"/>
+        <outline type="rss" text="GSM Arena Xiaomi" 
+          xmlUrl="https://myrhubpy.vercel.app/gsmarena/brand/xiaomi-80"/>
+      </outline>
+
+      <outline text="Kenya Tech" title="Kenya Tech">
+        <outline type="rss" text="PriceInKenya Laptops" 
+          xmlUrl="https://myrhubpy.vercel.app/priceinkenya/laptops"/>
+        <outline type="rss" text="PriceInKenya Phones" 
+          xmlUrl="https://myrhubpy.vercel.app/priceinkenya/smartphones"/>
+        <outline type="rss" text="Kenyatronics Search" 
+          xmlUrl="https://myrhubpy.vercel.app/kenyatronics/search?q=laptop"/>
+        <outline type="rss" text="Smartphones Kenya" 
+          xmlUrl="https://myrhubpy.vercel.app/smartphoneskenya/search/samsung"/>
+        <outline type="rss" text="Elix Computers" 
+          xmlUrl="https://myrhubpy.vercel.app/elixcomputerskenya/search/laptop"/>
+      </outline>
+
+      <outline text="My Data" title="My Data">
+        <outline type="rss" text="Supabase Gadgets" 
+          xmlUrl="https://myrhubpy.vercel.app/supabase/gadgets"/>
+        <outline type="rss" text="Supabase Tables" 
+          xmlUrl="https://myrhubpy.vercel.app/supabase/tables"/>
+      </outline>
+
+    </outline>
+
+    <!-- ==================== NEWS INTERNATIONAL ==================== -->
+    <outline text="News Int" title="News Int">
+      <outline type="rss" text="BBC World" 
+        xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml"/>
+      <outline type="rss" text="BBC Technology" 
+        xmlUrl="http://feeds.bbci.co.uk/news/technology/rss.xml"/>
+      <outline type="rss" text="Reuters World" 
+        xmlUrl="https://www.reutersagency.com/feed/?taxonomy=markets&amp;post_type=reuters-best"/>
+      <outline type="rss" text="The Guardian World" 
+        xmlUrl="https://www.theguardian.com/world/rss"/>
+      <outline type="rss" text="Al Jazeera" 
+        xmlUrl="https://www.aljazeera.com/xml/rss/all.xml"/>
+      <outline type="rss" text="DW News" 
+        xmlUrl="https://rss.dw.com/rdf/rss-en-all"/>
+      <outline type="rss" text="France 24" 
+        xmlUrl="https://www.france24.com/en/rss"/>
+      <outline type="rss" text="Associated Press" 
+        xmlUrl="https://rsshub.app/apnews/topics/apf-topnews"/>
+    </outline>
+
+    <!-- ==================== NEWS LOCAL (Kenya/Africa) ==================== -->
+    <outline text="News Local" title="News Local">
+      <outline type="rss" text="Nation Kenya" 
+        xmlUrl="https://nation.africa/kenya/rss"/>
+      <outline type="rss" text="The Standard" 
+        xmlUrl="https://www.standardmedia.co.ke/rss/kenya.php"/>
+      <outline type="rss" text="Business Daily" 
+        xmlUrl="https://www.businessdailyafrica.com/rss"/>
+      <outline type="rss" text="Capital FM" 
+        xmlUrl="https://www.capitalfm.co.ke/feed/"/>
+      <outline type="rss" text="Kenyans.co.ke" 
+        xmlUrl="https://www.kenyans.co.ke/rss"/>
+      <outline type="rss" text="Techweez" 
+        xmlUrl="https://techweez.com/feed"/>
+      <outline type="rss" text="Semafor Africa" 
+        xmlUrl="https://rsshub.app/semfor/home"/>
+    </outline>
+
+    <!-- ==================== AI ==================== -->
+    <outline text="AI" title="AI">
+      <outline type="rss" text="OpenAI Blog" 
+        xmlUrl="https://openai.com/blog/rss.xml"/>
+      <outline type="rss" text="Anthropic News" 
+        xmlUrl="https://www.anthropic.com/rss.xml"/>
+      <outline type="rss" text="Google AI Blog" 
+        xmlUrl="http://ai.googleblog.com/feeds/posts/default"/>
+      <outline type="rss" text="DeepMind Blog" 
+        xmlUrl="https://deepmind.google/blog/rss.xml"/>
+      <outline type="rss" text="AI Alignment Forum" 
+        xmlUrl="https://alignmentforum.org/feed.xml"/>
+      <outline type="rss" text="Machine Learning Mastery" 
+        xmlUrl="https://machinelearningmastery.com/feed/"/>
+      <outline type="rss" text="Papers with Code" 
+        xmlUrl="https://paperswithcode.com/rss"/>
+      <outline type="rss" text="Hugging Face Blog" 
+        xmlUrl="https://huggingface.co/blog/feed.xml"/>
+      <outline type="rss" text="Simon Willison's Blog" 
+        xmlUrl="https://simonwillison.net/atom/everything/"/>
+      <outline type="rss" text="One Useful Thing (Ethan Mollick)" 
+        xmlUrl="https://rsshub.app/substack/oneusefulthing"/>
+    </outline>
+
+    <!-- ==================== IT / TECH ==================== -->
+    <outline text="IT" title="IT">
+      <outline type="rss" text="Hacker News" 
+        xmlUrl="https://news.ycombinator.com/rss"/>
+      <outline type="rss" text="TechCrunch" 
+        xmlUrl="https://techcrunch.com/feed/"/>
+      <outline type="rss" text="The Verge" 
+        xmlUrl="https://www.theverge.com/rss/index.xml"/>
+      <outline type="rss" text="Ars Technica" 
+        xmlUrl="https://arstechnica.com/feed/"/>
+      <outline type="rss" text="Wired" 
+        xmlUrl="https://www.wired.com/feed/rss"/>
+      <outline type="rss" text="Engadget" 
+        xmlUrl="https://www.engadget.com/rss.xml"/>
+      <outline type="rss" text="9to5Mac" 
+        xmlUrl="https://9to5mac.com/feed/"/>
+      <outline type="rss" text="Android Police" 
+        xmlUrl="https://www.androidpolice.com/feed/"/>
+      <outline type="rss" text="XDA Developers" 
+        xmlUrl="https://www.xda-developers.com/feed/"/>
+      <outline type="rss" text="Linus Tech Tips" 
+        xmlUrl="https://rsshub.app/youtube/channel/UCXuqSBlHAE6Xw-yeJA0Tunw"/>
+    </outline>
+
+    <!-- ==================== HEALTH ==================== -->
+    <outline text="Health" title="Health">
+      <outline type="rss" text="WHO News" 
+        xmlUrl="https://www.who.int/rss-feeds/news-english.xml"/>
+      <outline type="rss" text="Harvard Health" 
+        xmlUrl="https://www.health.harvard.edu/rss"/>
+      <outline type="rss" text="Mayo Clinic" 
+        xmlUrl="https://www.mayoclinic.org/rss/all-news"/>
+      <outline type="rss" text="WebMD" 
+        xmlUrl="https://rssfeeds.webmd.com/rss/rss.aspx?RSSSource=RSS_PUBLIC"/>
+      <outline type="rss" text="Medical News Today" 
+        xmlUrl="https://www.medicalnewstoday.com/news.rss"/>
+      <outline type="rss" text="NIH Research" 
+        xmlUrl="https://www.nih.gov/news-events/news-releases/rss"/>
+      <outline type="rss" text="Health Affairs" 
+        xmlUrl="https://www.healthaffairs.org/rss/site_1/1000019X/rss.xml"/>
+      <outline type="rss" text="NutritionFacts.org" 
+        xmlUrl="https://nutritionfacts.org/feed/"/>
+    </outline>
+
+    <!-- ==================== PSYCHOLOGY ==================== -->
+    <outline text="Psychology" title="Psychology">
+      <outline type="rss" text="Psychology Today" 
+        xmlUrl="https://www.psychologytoday.com/intl/rss.xml"/>
+      <outline type="rss" text="APA News" 
+        xmlUrl="https://www.apa.org/news/psycport/rss.xml"/>
+      <outline type="rss" text="Scientific American Mind" 
+        xmlUrl="https://www.scientificamerican.com/mind/feed/"/>
+      <outline type="rss" text="BPS Research Digest" 
+        xmlUrl="https://digest.bps.org.uk/feed/"/>
+      <outline type="rss" text="Frontiers in Psychology" 
+        xmlUrl="https://www.frontiersin.org/journals/psychology/rss"/>
+      <outline type="rss" text="PsyPost" 
+        xmlUrl="https://www.psypost.org/feed/"/>
+      <outline type="rss" text="Verywell Mind" 
+        xmlUrl="https://www.verywellmind.com/rss.xml"/>
+      <outline type="rss" text="The Atlantic - Health" 
+        xmlUrl="https://www.theatlantic.com/feed/channel/health/"/>
+    </outline>
+
+    <!-- ==================== CODING ==================== -->
+    <outline text="Coding" title="Coding">
+      <outline type="rss" text="GitHub Blog" 
+        xmlUrl="https://github.blog/feed/"/>
+      <outline type="rss" text="GitHub Trending (Python)" 
+        xmlUrl="https://rsshub.app/github/trending/daily/python"/>
+      <outline type="rss" text="GitHub Trending (JavaScript)" 
+        xmlUrl="https://rsshub.app/github/trending/daily/javascript"/>
+      <outline type="rss" text="Stack Overflow Blog" 
+        xmlUrl="https://stackoverflow.blog/feed/"/>
+      <outline type="rss" text="Dev.to" 
+        xmlUrl="https://dev.to/feed"/>
+      <outline type="rss" text="CSS-Tricks" 
+        xmlUrl="https://css-tricks.com/feed/"/>
+      <outline type="rss" text="Smashing Magazine" 
+        xmlUrl="https://www.smashingmagazine.com/feed/"/>
+      <outline type="rss" text="FreeCodeCamp" 
+        xmlUrl="https://www.freecodecamp.org/news/rss/"/>
+      <outline type="rss" text="Real Python" 
+        xmlUrl="https://realpython.com/atom.xml"/>
+      <outline type="rss" text="Go Blog" 
+        xmlUrl="https://go.dev/blog/feed.atom"/>
+      <outline type="rss" text="Rust Blog" 
+        xmlUrl="https://blog.rust-lang.org/feed.xml"/>
+      <outline type="rss" text="Martin Fowler" 
+        xmlUrl="https://martinfowler.com/feed.atom"/>
+      <outline type="rss" text="Joel on Software" 
+        xmlUrl="https://www.joelonsoftware.com/feed/"/>
+      <outline type="rss" text="The Pragmatic Engineer" 
+        xmlUrl="https://rsshub.app/substack/pragmaticengineer"/>
+    </outline>
+
+  </body>
+</opml>
