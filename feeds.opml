@@ -1,174 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <opml version="2.0">
   <head>
-    <title>My FreshRSS Feeds - Complete Collection</title>
-    <dateCreated>Mon, 14 Apr 2026 12:00:00 GMT</dateCreated>
+    <title>FreshRSS Feeds - Top 5 Per Category</title>
+    <dateCreated>Mon, 14 Apr 2026 13:00:00 GMT</dateCreated>
   </head>
   <body>
 
-    <!-- ==================== KENYA NEWS (ALL URLS YOU PROVIDED) ==================== -->
+    <!-- ==================== KENYA NEWS (TOP 5) ==================== -->
     <outline text="🇰🇪 Kenya News" title="Kenya News">
       <outline type="rss" text="The Guardian - Kenya" xmlUrl="https://www.theguardian.com/world/kenya"/>
-      <outline type="rss" text="Capital FM News Feed" xmlUrl="https://www.capitalfm.co.ke/news/feed/"/>
-      <outline type="rss" text="Nation Africa RSS" xmlUrl="https://nation.africa/kenya/rss.xml"/>
-      <outline type="rss" text="People Daily Feed" xmlUrl="https://peopledaily.digital/feed"/>
-      <outline type="rss" text="Breaking News - Politics" xmlUrl="https://breakingnews.co.ke/politics/feed/"/>
-      <outline type="rss" text="Google News - Kenya Search" xmlUrl="https://news.google.com/search?hl=en-US&gl=US&q=kenya&um=1&ie=UTF-8&ceid=US:en"/>
-      <outline type="rss" text="Kenya News GO.KE Feed" xmlUrl="https://www.kenyanews.go.ke/feed/"/>
-      <outline type="rss" text="Kenyan Wire Feed" xmlUrl="https://nairobiwire.com/feed"/>
-      <outline type="rss" text="Kenyans.co.ke Feeds News" xmlUrl="https://www.kenyans.co.ke/feeds/news?_wrapper_format=html"/>
-      <outline type="rss" text="Grattan Institute Feed" xmlUrl="https://grattan.edu.au/feed/"/>
+      <outline type="rss" text="Nation Africa" xmlUrl="https://nation.africa/kenya/rss.xml"/>
+      <outline type="rss" text="Capital FM News" xmlUrl="https://www.capitalfm.co.ke/news/feed/"/>
+      <outline type="rss" text="Kenyans.co.ke" xmlUrl="https://www.kenyans.co.ke/feeds/news?_wrapper_format=html"/>
+      <outline type="rss" text="Google News - Kenya" xmlUrl="https://news.google.com/search?hl=en-US&gl=US&q=kenya&um=1&ie=UTF-8&ceid=US:en"/>
     </outline>
 
-    <!-- ==================== THE STANDARD - ALL CATEGORIES ==================== -->
+    <!-- ==================== THE STANDARD (TOP 5) ==================== -->
     <outline text="📰 The Standard" title="The Standard">
       <outline type="rss" text="Main Headlines" xmlUrl="https://www.standardmedia.co.ke/rss/headlines.php"/>
       <outline type="rss" text="Kenya News" xmlUrl="https://www.standardmedia.co.ke/rss/kenya.php"/>
-      <outline type="rss" text="World News" xmlUrl="https://www.standardmedia.co.ke/rss/world.php"/>
       <outline type="rss" text="Politics" xmlUrl="https://www.standardmedia.co.ke/rss/politics.php"/>
-      <outline type="rss" text="Opinion" xmlUrl="https://www.standardmedia.co.ke/rss/opinion.php"/>
-      <outline type="rss" text="Sports" xmlUrl="https://www.standardmedia.co.ke/rss/sports.php"/>
       <outline type="rss" text="Business" xmlUrl="https://www.standardmedia.co.ke/rss/business.php"/>
-      <outline type="rss" text="Columnists" xmlUrl="https://www.standardmedia.co.ke/rss/columnists.php"/>
-      <outline type="rss" text="Magazines/Pullouts" xmlUrl="https://www.standardmedia.co.ke/rss/magazines.php"/>
-      <outline type="rss" text="Agriculture" xmlUrl="https://www.standardmedia.co.ke/rss/agriculture.php"/>
-      <outline type="rss" text="KTN Videos" xmlUrl="https://www.standardmedia.co.ke/rss/ktnvideos.php"/>
-      <outline type="rss" text="Eve Woman" xmlUrl="https://www.standardmedia.co.ke/rss/evewoman.php"/>
-      <outline type="rss" text="Entertainment (SDE)" xmlUrl="https://www.standardmedia.co.ke/rss/entertainment.php"/>
+      <outline type="rss" text="Sports" xmlUrl="https://www.standardmedia.co.ke/rss/sports.php"/>
     </outline>
 
-    <!-- ==================== NAIROBI LEO - ALL CATEGORIES ==================== -->
+    <!-- ==================== NAIROBI LEO (TOP 5) ==================== -->
     <outline text="📝 Nairobi Leo" title="Nairobi Leo">
-      <outline type="rss" text="Blog" xmlUrl="https://nairobileo.co.ke/feed/blog"/>
+      <outline type="rss" text="News" xmlUrl="https://nairobileo.co.ke/feed/news"/>
       <outline type="rss" text="Business" xmlUrl="https://nairobileo.co.ke/feed/business"/>
       <outline type="rss" text="Entertainment" xmlUrl="https://nairobileo.co.ke/feed/entertainment"/>
-      <outline type="rss" text="Features" xmlUrl="https://nairobileo.co.ke/feed/features"/>
-      <outline type="rss" text="News" xmlUrl="https://nairobileo.co.ke/feed/news"/>
       <outline type="rss" text="Opinions" xmlUrl="https://nairobileo.co.ke/feed/opinions"/>
-      <outline type="rss" text="Videos" xmlUrl="https://nairobileo.co.ke/feed/videos"/>
+      <outline type="rss" text="Features" xmlUrl="https://nairobileo.co.ke/feed/features"/>
     </outline>
 
-    <!-- ==================== KENYA EVENTS (FROM YOUR REQUEST) ==================== -->
+    <!-- ==================== KENYA EVENTS ==================== -->
     <outline text="📅 Kenya Events" title="Kenya Events">
-      <outline type="rss" text="Nairobi Now - Events" xmlUrl="https://nairobinow.wordpress.com/feed/"/>
+      <outline type="rss" text="Nairobi Now Events" xmlUrl="https://nairobinow.wordpress.com/feed/"/>
     </outline>
 
-    <!-- ==================== EXISTING FRESHRSS FEEDS (FROM YOUR OPML) ==================== -->
-    
-    <!-- RSSHUBPY Your Custom Feeds -->
-    <outline text="🔧 RsshubPy" title="RsshubPy">
-      <outline text="Phone Reviews" title="Phone Reviews">
-        <outline type="rss" text="GSM Arena News" xmlUrl="https://myrhubpy.vercel.app/gsmarena/news"/>
-        <outline type="rss" text="GSM Arena Latest Phones" xmlUrl="https://myrhubpy.vercel.app/gsmarena/latest"/>
-        <outline type="rss" text="GSM Arena Reviews" xmlUrl="https://myrhubpy.vercel.app/gsmarena/reviews"/>
-        <outline type="rss" text="GSM Arena Samsung" xmlUrl="https://myrhubpy.vercel.app/gsmarena/brand/samsung"/>
-        <outline type="rss" text="GSM Arena Apple" xmlUrl="https://myrhubpy.vercel.app/gsmarena/brand/apple-phones-48"/>
-        <outline type="rss" text="GSM Arena Xiaomi" xmlUrl="https://myrhubpy.vercel.app/gsmarena/brand/xiaomi-80"/>
-      </outline>
-      <outline text="Kenya Tech" title="Kenya Tech">
-        <outline type="rss" text="PriceInKenya Laptops" xmlUrl="https://myrhubpy.vercel.app/priceinkenya/laptops"/>
-        <outline type="rss" text="PriceInKenya Phones" xmlUrl="https://myrhubpy.vercel.app/priceinkenya/smartphones"/>
-        <outline type="rss" text="Kenyatronics Search" xmlUrl="https://myrhubpy.vercel.app/kenyatronics/search?q=laptop"/>
-        <outline type="rss" text="Smartphones Kenya" xmlUrl="https://myrhubpy.vercel.app/smartphoneskenya/search/samsung"/>
-        <outline type="rss" text="Elix Computers" xmlUrl="https://myrhubpy.vercel.app/elixcomputerskenya/search/laptop"/>
-      </outline>
-      <outline text="My Data" title="My Data">
-        <outline type="rss" text="Supabase Gadgets" xmlUrl="https://myrhubpy.vercel.app/supabase/gadgets"/>
-        <outline type="rss" text="Supabase Tables" xmlUrl="https://myrhubpy.vercel.app/supabase/tables"/>
-      </outline>
-    </outline>
-
-    <!-- News International -->
-    <outline text="🌍 News Int" title="News Int">
+    <!-- ==================== INTERNATIONAL NEWS (TOP 5) ==================== -->
+    <outline text="🌍 International News" title="International News">
       <outline type="rss" text="BBC World" xmlUrl="http://feeds.bbci.co.uk/news/world/rss.xml"/>
-      <outline type="rss" text="BBC Technology" xmlUrl="http://feeds.bbci.co.uk/news/technology/rss.xml"/>
-      <outline type="rss" text="Reuters World" xmlUrl="https://www.reutersagency.com/feed/?taxonomy=markets&amp;post_type=reuters-best"/>
       <outline type="rss" text="The Guardian World" xmlUrl="https://www.theguardian.com/world/rss"/>
       <outline type="rss" text="Al Jazeera" xmlUrl="https://www.aljazeera.com/xml/rss/all.xml"/>
       <outline type="rss" text="DW News" xmlUrl="https://rss.dw.com/rdf/rss-en-all"/>
       <outline type="rss" text="France 24" xmlUrl="https://www.france24.com/en/rss"/>
-      <outline type="rss" text="Associated Press" xmlUrl="https://rsshub.app/apnews/topics/apf-topnews"/>
     </outline>
 
-    <!-- News Local (Additional Kenyan sources from your original lists) -->
-    <outline text="🇰🇪 News Local" title="News Local">
-      <outline type="rss" text="Nation Kenya" xmlUrl="https://nation.africa/kenya/rss"/>
-      <outline type="rss" text="The Standard" xmlUrl="https://www.standardmedia.co.ke/rss/kenya.php"/>
-      <outline type="rss" text="Business Daily" xmlUrl="https://www.businessdailyafrica.com/rss"/>
-      <outline type="rss" text="Capital FM" xmlUrl="https://www.capitalfm.co.ke/feed/"/>
-      <outline type="rss" text="Kenyans.co.ke" xmlUrl="https://www.kenyans.co.ke/rss"/>
-      <outline type="rss" text="Techweez" xmlUrl="https://techweez.com/feed"/>
-      <outline type="rss" text="Semafor Africa" xmlUrl="https://rsshub.app/semfor/home"/>
+    <!-- ==================== BUSINESS (TOP 5) ==================== -->
+    <outline text="💼 Business" title="Business">
+      <outline type="rss" text="Business Daily Africa" xmlUrl="https://www.businessdailyafrica.com/rss"/>
+      <outline type="rss" text="The Standard - Business" xmlUrl="https://www.standardmedia.co.ke/rss/business.php"/>
+      <outline type="rss" text="Nairobi Leo - Business" xmlUrl="https://nairobileo.co.ke/feed/business"/>
+      <outline type="rss" text="Reuters Markets" xmlUrl="https://www.reutersagency.com/feed/?taxonomy=markets&amp;post_type=reuters-best"/>
+      <outline type="rss" text="BBC Technology" xmlUrl="http://feeds.bbci.co.uk/news/technology/rss.xml"/>
     </outline>
 
-    <!-- AI -->
-    <outline text="🤖 AI" title="AI">
-      <outline type="rss" text="OpenAI Blog" xmlUrl="https://openai.com/blog/rss.xml"/>
-      <outline type="rss" text="Anthropic News" xmlUrl="https://www.anthropic.com/rss.xml"/>
-      <outline type="rss" text="Google AI Blog" xmlUrl="http://ai.googleblog.com/feeds/posts/default"/>
-      <outline type="rss" text="DeepMind Blog" xmlUrl="https://deepmind.google/blog/rss.xml"/>
-      <outline type="rss" text="AI Alignment Forum" xmlUrl="https://alignmentforum.org/feed.xml"/>
-      <outline type="rss" text="Machine Learning Mastery" xmlUrl="https://machinelearningmastery.com/feed/"/>
-      <outline type="rss" text="Papers with Code" xmlUrl="https://paperswithcode.com/rss"/>
-      <outline type="rss" text="Hugging Face Blog" xmlUrl="https://huggingface.co/blog/feed.xml"/>
-      <outline type="rss" text="Simon Willison's Blog" xmlUrl="https://simonwillison.net/atom/everything/"/>
-      <outline type="rss" text="One Useful Thing (Ethan Mollick)" xmlUrl="https://rsshub.app/substack/oneusefulthing"/>
-    </outline>
-
-    <!-- IT / Tech -->
-    <outline text="💻 IT" title="IT">
-      <outline type="rss" text="Hacker News" xmlUrl="https://news.ycombinator.com/rss"/>
+    <!-- ==================== TECHNOLOGY (TOP 5) ==================== -->
+    <outline text="💻 Technology" title="Technology">
+      <outline type="rss" text="Techweez (Kenya)" xmlUrl="https://techweez.com/feed"/>
       <outline type="rss" text="TechCrunch" xmlUrl="https://techcrunch.com/feed/"/>
       <outline type="rss" text="The Verge" xmlUrl="https://www.theverge.com/rss/index.xml"/>
-      <outline type="rss" text="Ars Technica" xmlUrl="https://arstechnica.com/feed/"/>
       <outline type="rss" text="Wired" xmlUrl="https://www.wired.com/feed/rss"/>
-      <outline type="rss" text="Engadget" xmlUrl="https://www.engadget.com/rss.xml"/>
-      <outline type="rss" text="9to5Mac" xmlUrl="https://9to5mac.com/feed/"/>
-      <outline type="rss" text="Android Police" xmlUrl="https://www.androidpolice.com/feed/"/>
-      <outline type="rss" text="XDA Developers" xmlUrl="https://www.xda-developers.com/feed/"/>
-      <outline type="rss" text="Linus Tech Tips" xmlUrl="https://rsshub.app/youtube/channel/UCXuqSBlHAE6Xw-yeJA0Tunw"/>
+      <outline type="rss" text="Ars Technica" xmlUrl="https://arstechnica.com/feed/"/>
     </outline>
 
-    <!-- Health -->
+    <!-- ==================== AI (TOP 5) ==================== -->
+    <outline text="🤖 AI" title="AI">
+      <outline type="rss" text="OpenAI Blog" xmlUrl="https://openai.com/blog/rss.xml"/>
+      <outline type="rss" text="Google AI Blog" xmlUrl="http://ai.googleblog.com/feeds/posts/default"/>
+      <outline type="rss" text="DeepMind Blog" xmlUrl="https://deepmind.google/blog/rss.xml"/>
+      <outline type="rss" text="Hugging Face Blog" xmlUrl="https://huggingface.co/blog/feed.xml"/>
+      <outline type="rss" text="Simon Willison's Blog" xmlUrl="https://simonwillison.net/atom/everything/"/>
+    </outline>
+
+    <!-- ==================== CODING (TOP 5) ==================== -->
+    <outline text="👨‍💻 Coding" title="Coding">
+      <outline type="rss" text="GitHub Blog" xmlUrl="https://github.blog/feed/"/>
+      <outline type="rss" text="Stack Overflow Blog" xmlUrl="https://stackoverflow.blog/feed/"/>
+      <outline type="rss" text="Dev.to" xmlUrl="https://dev.to/feed"/>
+      <outline type="rss" text="Real Python" xmlUrl="https://realpython.com/atom.xml"/>
+      <outline type="rss" text="Hacker News" xmlUrl="https://news.ycombinator.com/rss"/>
+    </outline>
+
+    <!-- ==================== HEALTH (TOP 5) ==================== -->
     <outline text="🏥 Health" title="Health">
       <outline type="rss" text="WHO News" xmlUrl="https://www.who.int/rss-feeds/news-english.xml"/>
       <outline type="rss" text="Harvard Health" xmlUrl="https://www.health.harvard.edu/rss"/>
       <outline type="rss" text="Mayo Clinic" xmlUrl="https://www.mayoclinic.org/rss/all-news"/>
-      <outline type="rss" text="WebMD" xmlUrl="https://rssfeeds.webmd.com/rss/rss.aspx?RSSSource=RSS_PUBLIC"/>
       <outline type="rss" text="Medical News Today" xmlUrl="https://www.medicalnewstoday.com/news.rss"/>
       <outline type="rss" text="NIH Research" xmlUrl="https://www.nih.gov/news-events/news-releases/rss"/>
-      <outline type="rss" text="Health Affairs" xmlUrl="https://www.healthaffairs.org/rss/site_1/1000019X/rss.xml"/>
-      <outline type="rss" text="NutritionFacts.org" xmlUrl="https://nutritionfacts.org/feed/"/>
     </outline>
 
-    <!-- Psychology -->
+    <!-- ==================== PSYCHOLOGY (TOP 5) ==================== -->
     <outline text="🧠 Psychology" title="Psychology">
       <outline type="rss" text="Psychology Today" xmlUrl="https://www.psychologytoday.com/intl/rss.xml"/>
-      <outline type="rss" text="APA News" xmlUrl="https://www.apa.org/news/psycport/rss.xml"/>
-      <outline type="rss" text="Scientific American Mind" xmlUrl="https://www.scientificamerican.com/mind/feed/"/>
       <outline type="rss" text="BPS Research Digest" xmlUrl="https://digest.bps.org.uk/feed/"/>
-      <outline type="rss" text="Frontiers in Psychology" xmlUrl="https://www.frontiersin.org/journals/psychology/rss"/>
       <outline type="rss" text="PsyPost" xmlUrl="https://www.psypost.org/feed/"/>
       <outline type="rss" text="Verywell Mind" xmlUrl="https://www.verywellmind.com/rss.xml"/>
-      <outline type="rss" text="The Atlantic - Health" xmlUrl="https://www.theatlantic.com/feed/channel/health/"/>
+      <outline type="rss" text="Scientific American Mind" xmlUrl="https://www.scientificamerican.com/mind/feed/"/>
     </outline>
 
-    <!-- Coding -->
-    <outline text="👨‍💻 Coding" title="Coding">
-      <outline type="rss" text="GitHub Blog" xmlUrl="https://github.blog/feed/"/>
-      <outline type="rss" text="GitHub Trending (Python)" xmlUrl="https://rsshub.app/github/trending/daily/python"/>
-      <outline type="rss" text="GitHub Trending (JavaScript)" xmlUrl="https://rsshub.app/github/trending/daily/javascript"/>
-      <outline type="rss" text="Stack Overflow Blog" xmlUrl="https://stackoverflow.blog/feed/"/>
-      <outline type="rss" text="Dev.to" xmlUrl="https://dev.to/feed"/>
-      <outline type="rss" text="CSS-Tricks" xmlUrl="https://css-tricks.com/feed/"/>
-      <outline type="rss" text="Smashing Magazine" xmlUrl="https://www.smashingmagazine.com/feed/"/>
-      <outline type="rss" text="FreeCodeCamp" xmlUrl="https://www.freecodecamp.org/news/rss/"/>
-      <outline type="rss" text="Real Python" xmlUrl="https://realpython.com/atom.xml"/>
-      <outline type="rss" text="Go Blog" xmlUrl="https://go.dev/blog/feed.atom"/>
-      <outline type="rss" text="Rust Blog" xmlUrl="https://blog.rust-lang.org/feed.xml"/>
-      <outline type="rss" text="Martin Fowler" xmlUrl="https://martinfowler.com/feed.atom"/>
-      <outline type="rss" text="Joel on Software" xmlUrl="https://www.joelonsoftware.com/feed/"/>
-      <outline type="rss" text="The Pragmatic Engineer" xmlUrl="https://rsshub.app/substack/pragmaticengineer"/>
+    <!-- ==================== SPORTS (TOP 5) ==================== -->
+    <outline text="⚽ Sports" title="Sports">
+      <outline type="rss" text="The Standard - Sports" xmlUrl="https://www.standardmedia.co.ke/rss/sports.php"/>
+      <outline type="rss" text="BBC Sport" xmlUrl="http://feeds.bbci.co.uk/sport/rss.xml"/>
+    </outline>
+
+    <!-- ==================== RSSHUBPY (YOUR CUSTOM FEEDS - TOP 5) ==================== -->
+    <outline text="🔧 RsshubPy" title="RsshubPy">
+      <outline type="rss" text="GSM Arena News" xmlUrl="https://myrhubpy.vercel.app/gsmarena/news"/>
+      <outline type="rss" text="GSM Arena Reviews" xmlUrl="https://myrhubpy.vercel.app/gsmarena/reviews"/>
+      <outline type="rss" text="PriceInKenya Phones" xmlUrl="https://myrhubpy.vercel.app/priceinkenya/smartphones"/>
+      <outline type="rss" text="PriceInKenya Laptops" xmlUrl="https://myrhubpy.vercel.app/priceinkenya/laptops"/>
+      <outline type="rss" text="Supabase Gadgets" xmlUrl="https://myrhubpy.vercel.app/supabase/gadgets"/>
     </outline>
 
   </body>
