@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Ruiru News &amp; Intelligence Feeds</title>
+    <dateCreated>Sat, 31 May 2026 06:37:00 +0300</dateCreated>
+    <ownerName>Ruiru Monitor</ownerName>
+  </head>
+  <body>
+
+    <!-- Ruiru Local -->
+    <outline text="🏘️ Ruiru Local">
+      <outline type="rss" text="KNA — Ruiru" 
+        xmlUrl="https://kenyanews.go.ke/tag/ruiru/feed" 
+        htmlUrl="https://kenyanews.go.ke/tag/ruiru/"/>
+      <outline type="rss" text="KNA — Ruiru Sub-county" 
+        xmlUrl="https://kenyanews.go.ke/tag/ruiru-sub-county/feed" 
+        htmlUrl="https://kenyanews.go.ke/tag/ruiru-sub-county/"/>
+      <outline type="rss" text="KNA — Kiambu" 
+        xmlUrl="https://kenyanews.go.ke/tag/kiambu/feed" 
+        htmlUrl="https://kenyanews.go.ke/tag/kiambu/"/>
+      <outline type="rss" text="Nairobi Wire" 
+        xmlUrl="https://nairobiwire.com/feed" 
+        htmlUrl="https://nairobiwire.com"/>
+    </outline>
+
+    <!-- National News -->
+    <outline text="📰 National News">
+      <outline type="rss" text="The Standard — Kenya" 
+        xmlUrl="https://www.standardmedia.co.ke/rss/kenya.php" 
+        htmlUrl="https://www.standardmedia.co.ke"/>
+      <outline type="rss" text="The Standard — Headlines" 
+        xmlUrl="https://www.standardmedia.co.ke/rss/headlines.php" 
+        htmlUrl="https://www.standardmedia.co.ke"/>
+      <outline type="rss" text="Nation — Kenya" 
+        xmlUrl="https://nation.africa/kenya/feed" 
+        htmlUrl="https://nation.africa/kenya"/>
+      <outline type="rss" text="The Star" 
+        xmlUrl="https://www.the-star.co.ke/feed" 
+        htmlUrl="https://www.the-star.co.ke"/>
+      <outline type="rss" text="Business Daily" 
+        xmlUrl="https://www.businessdailyafrica.com/feed" 
+        htmlUrl="https://www.businessdailyafrica.com"/>
+      <outline type="rss" text="Capital FM Kenya" 
+        xmlUrl="https://capitalfm.co.ke/news/feed" 
+        htmlUrl="https://capitalfm.co.ke/news"/>
+      <outline type="rss" text="Kenyans.co.ke" 
+        xmlUrl="https://kenyans.co.ke/feeds/news" 
+        htmlUrl="https://kenyans.co.ke"/>
+    </outline>
+
+    <!-- Search Feeds (Google News) -->
+    <outline text="🔍 Search Feeds">
+      <outline type="rss" text="Google News — Ruiru Kenya" 
+        xmlUrl="https://news.google.com/rss/search?q=ruiru+kenya&amp;hl=en-KE&amp;gl=KE&amp;ceid=KE:en" 
+        htmlUrl="https://news.google.com/search?q=ruiru+kenya"/>
+      <outline type="rss" text="Google News — Kiambu County" 
+        xmlUrl="https://news.google.com/rss/search?q=kiambu+county+kenya&amp;hl=en-KE&amp;gl=KE&amp;ceid=KE:en" 
+        htmlUrl="https://news.google.com/search?q=kiambu+county+kenya"/>
+      <outline type="rss" text="Google News — Tatu City" 
+        xmlUrl="https://news.google.com/rss/search?q=tatu+city+kenya&amp;hl=en-KE&amp;gl=KE&amp;ceid=KE:en" 
+        htmlUrl="https://news.google.com/search?q=tatu+city+kenya"/>
+      <outline type="rss" text="Google News — Eastern Bypass" 
+        xmlUrl="https://news.google.com/rss/search?q=eastern+bypass+kenya&amp;hl=en-KE&amp;gl=KE&amp;ceid=KE:en" 
+        htmlUrl="https://news.google.com/search?q=eastern+bypass+kenya"/>
+      <outline type="rss" text="Bing News — Kihunguro" 
+        xmlUrl="https://www.bing.com/news/search?format=RSS&amp;q=kihunguro" 
+        htmlUrl="https://www.bing.com/news/search?q=kihunguro"/>
+    </outline>
+
+    <!-- Government & Official -->
+    <outline text="🏛️ Government &amp; Official">
+      <outline type="rss" text="Kiambu County Government" 
+        xmlUrl="https://kiambu.go.ke/feed" 
+        htmlUrl="https://kiambu.go.ke"/>
+      <outline type="rss" text="Kenya Law" 
+        xmlUrl="https://kenyalaw.org/kl/feed/" 
+        htmlUrl="https://kenyalaw.org"/>
+      <outline type="rss" text="The Presidency" 
+        xmlUrl="https://www.president.go.ke/feed/" 
+        htmlUrl="https://www.president.go.ke"/>
+    </outline>
+
+    <!-- Infrastructure & Development -->
+    <outline text="🚧 Infrastructure">
+      <outline type="rss" text="Kenha — Road Updates" 
+        xmlUrl="https://www.keNHA.co.ke/feed" 
+        htmlUrl="https://www.keNHA.co.ke"/>
+      <outline type="rss" text="Nairobi Metropolitan" 
+        xmlUrl="https://www.nairobi.go.ke/feed" 
+        htmlUrl="https://www.nairobi.go.ke"/>
+    </outline>
+
+    <!-- Business & Real Estate -->
+    <outline text="💼 Business &amp; Real Estate">
+      <outline type="rss" text="Property24 Kenya" 
+        xmlUrl="https://www.property24.co.ke/feed" 
+        htmlUrl="https://www.property24.co.ke"/>
+      <outline type="rss" text="BuyRentKenya" 
+        xmlUrl="https://www.buyrentkenya.com/feed" 
+        htmlUrl="https://www.buyrentkenya.com"/>
+    </outline>
+
+    <!-- Video & Social -->
+    <outline text="🎥 Video &amp; Social">
+      <outline type="rss" text="YouTube — Kenya Citizen TV" 
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCob_U2hIIg6rbdD5l1JoVfQ" 
+        htmlUrl="https://www.youtube.com/@KenyaCitizenTV"/>
+      <outline type="rss" text="YouTube — NTV Kenya" 
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCqBJ47F4GH-1xu7gfh0PsNw" 
+        htmlUrl="https://www.youtube.com/@ntvkenya"/>
+      <outline type="rss" text="YouTube — KTN News" 
+        xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UCKVsdeoHExltrWMuK0hOWmg" 
+        htmlUrl="https://www.youtube.com/@KTNNews"/>
+      <outline type="rss" text="Reddit — r/Kenya" 
+        xmlUrl="https://www.reddit.com/r/Kenya/.rss" 
+        htmlUrl="https://www.reddit.com/r/Kenya"/>
+    </outline>
+
+    <!-- Weather & Environment -->
+    <outline text="🌤️ Weather">
+      <outline type="rss" text="Kenya Met Department" 
+        xmlUrl="https://www.meteo.go.ke/feed" 
+        htmlUrl="https://www.meteo.go.ke"/>
+    </outline>
+
+    <!-- Agriculture (for maize milling CEO use case) -->
+    <outline text="🌽 Agriculture">
+      <outline type="rss" text="NCPB Kenya" 
+        xmlUrl="https://www.ncpb.co.ke/feed" 
+        htmlUrl="https://www.ncpb.co.ke"/>
+      <outline type="rss" text="KALRO" 
+        xmlUrl="https://www.kalro.org/feed" 
+        htmlUrl="https://www.kalro.org"/>
+    </outline>
+
+  </body>
+</opml>
